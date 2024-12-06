@@ -1,3 +1,7 @@
+# Frases de músicas
+
+Projeto que gera frases aleatórias de músicas a partir do Dart
+
 # frase_musica
 
 A new Flutter project.
